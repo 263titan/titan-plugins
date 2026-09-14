@@ -1,0 +1,1 @@
+{"name":"@titan/plugins","version":"0.1.0","private":false,"scripts":{"build":"echo build","lint":"echo lint","test":"echo test","package":"echo package"}}
